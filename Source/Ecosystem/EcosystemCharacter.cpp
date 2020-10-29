@@ -16,7 +16,7 @@ AEcosystemCharacter::AEcosystemCharacter()
 {
 	// Set size for player capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
-
+//TODO: na kleisw ta fwta
 	// Don't rotate character to camera direction
 	bUseControllerRotationPitch = false;
 	bUseControllerRotationYaw = false;
