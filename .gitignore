@@ -519,3 +519,6 @@ MigrationBackup/
 .idea/.idea.Ecosystem/.idea/vcs.xml
 .idea/.idea.Ecosystem/riderModule.iml
 .idea/.idea.Ecosystem/.idea/codeStyles/codeStyleConfig.xml
+
+#Starter Content
+Content/StarterContent/*
